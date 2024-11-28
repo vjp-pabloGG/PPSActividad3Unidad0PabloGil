@@ -1,6 +1,6 @@
 # PPS-Unidad0Actividad3-PabloGil
 
 
-[Github](Github.md)
+[Github](GitHub.md)
 [Install](Install.md)
 [UsoGit](UsoGit.md)

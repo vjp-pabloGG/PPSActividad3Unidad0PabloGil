@@ -7,3 +7,6 @@ Subimos la clave pública a nuestra cuenta de GitHub en el apartado que se ve en
 
 Agregamos las claves en el apartado
 ![](/imagenes/Cap3.png)
+
+Clonamos el directorio
+![](/imagenes/Cap4.png)
